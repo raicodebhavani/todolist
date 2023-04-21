@@ -1,0 +1,10 @@
+.get-todo-con {
+  padding: 20px;
+  background-color: bisque;
+  margin: 10px;
+  border-radius: 10px;
+}
+.but {
+  text-align: start;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,15 @@
+.todo-header {
+  background-color: aqua;
+  padding: 20px;
+  text-align: center;
+  font-family: "roboto";
+}
+.listing {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.link-list {
+  text-decoration: none;
+  color: black;
+}
